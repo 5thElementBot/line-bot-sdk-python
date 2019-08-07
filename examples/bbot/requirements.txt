@@ -1,0 +1,4 @@
+flask
+pillow
+py_translator
+line-bot-sdk
